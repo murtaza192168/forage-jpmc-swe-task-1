@@ -1,0 +1,131 @@
+From 0abe31b2670f631ddbf104e630333c83664648aa Mon Sep 17 00:00:00 2001
+From: murtaza192168 <murtazacloudwork1252@gmail.com>
+Date: Mon, 11 Dec 2023 15:20:19 +0530
+Subject: [PATCH] Task 1 completed!
+
+---
+ __pycache__/client3.cpython-39.pyc     | Bin 0 -> 1076 bytes
+ __pycache__/client_test.cpython-39.pyc | Bin 0 -> 1202 bytes
+ client3.py                             |  12 +++++++++---
+ greet.py                               |   1 -
+ server3.py                             |   3 +--
+ 5 files changed, 10 insertions(+), 6 deletions(-)
+ create mode 100644 __pycache__/client3.cpython-39.pyc
+ create mode 100644 __pycache__/client_test.cpython-39.pyc
+ delete mode 100644 greet.py
+
+diff --git a/__pycache__/client3.cpython-39.pyc b/__pycache__/client3.cpython-39.pyc
+new file mode 100644
+index 0000000000000000000000000000000000000000..d98288b4499aa1aff8816c10975d3042657a0025
+GIT binary patch
+literal 1076
+zcmYjQOK%e~5VrS`Z2ExmXiDK?kPrkB3gSRj@scP)Ab|=95LVF2Sx=g6H@m6r6g8x$
+z@I%rg9JujAxbBrx@0>U>cG?PC_B=d0{^lF6n4g~^IDY=xh4(c=ep}=Jfj;sWm;Qm9
+zB$8%?PbKBl*&g?$#{=o}PzEymN_a(9WEEu<A{lLa>O0h62Es8N({=Jm@>w90Iq<jU
+zC#N8ooCZ3f2jqYr(8+?8{0yAIxa<5ZRN(BGwgP^RpXZCb4ok8I=iodnLcJ5z$(T~I
+zlc9G8s!)ge*gNvAOZt{HW)BfFc{RM;HKxC|vXT{v$hw6#Ypb_cZ?EhOK<zzB<%2K#
+z=^si+g6m|2s0Fy5;L?wA8)5CsWS<(VdCNrl%Xt63=j`Cb_D9~xUm`NRMD~Lbwbm%;
+z1c;_GyvH_FAqNRCk!8$uf#m=aB-<6)05mfN+k_mHFc`t4Frr_ixnX6fO_6MuRa5li
+zb}GxTuhImjw$R&$9^z}zGVEl9FpaPbcLs$4W!+^BKZvLCHH@9A%9i$xs96+$KRj7$
+zz0;s{>*YWhF%;}=SG3!yYCV@A5b_ozMz>yUynNPto@3rzchi2WQz)?s&8>bfY3k3=
+zG?=}4r<G(W<mT?J{$4q^31%Iu*l<<gRocBZKcWjb=ct-TUt&=n53AcQIMyvj*GF%7
+zg*^kqkeIY!MTfa^V!=c%kMuS>wBNac8Xm76MI0+_cQD=NFs_Uc+8dkh23p!d@YQK|
+z630D}=5ai{_S&*2*;UPiVb_tzwX6Cj!!n(8SD@AyMlKV^H7@XAOBXq>D1=t@_^E-)
+zvb23m0X{Zucx7ty@b$Z=Z$6gvm80O~;#~9~j>{lLlFJZtY(h!nGQ_q@&8x>*s+gtd
+zLta*}2R&iRK!K2D#dTe)$P!^oQugOnmUGu{_iS?W9~HL!YRbp`9=^;B9xkFwU&Jk<
+TIQ;-;G!s=LZ-Fw`xVrZb7Vs5l
+
+literal 0
+HcmV?d00001
+
+diff --git a/__pycache__/client_test.cpython-39.pyc b/__pycache__/client_test.cpython-39.pyc
+new file mode 100644
+index 0000000000000000000000000000000000000000..b867b25f1bbcd257f529a53e9d4aaf921db3fb99
+GIT binary patch
+literal 1202
+zcmcgrO-~a+7@qxVmr_I#qc%o4cxg<VwtO^gh$$3Bj1UNTS&N%tXDCa%+cLA2*u<0Y
+zFF0u8K`x%X_z&<8?9F%}M1KJX<NI!rk9Z(ne3N<h{n+<oo|&No0|^51;ma%jQ77a(
+z8s`OkqykHp0T^LQlUVpwn~JAeszPQ7)0n<Pn9j+j_ExiWZZM;viV05M#oiMIa+XOt
+zb_DrkA+3bTIuB-OKo?uCA2{eeFDe)nSn>`4Czis9r80%7JH*m@oh+RhSTRggn=bc*
+z6)pouf#3fK)`-KZ!jh8!n9sC5l|d$pMOvJhtZ&a?3D$oSNwR^H$Q6v#)i=-^`V21A
+zzaD@*ds#WU55@LX%V-PN;h`?wE<a8ca`{pwSIFe^BZWdaH&GtVWygz!vGLKvd%HiD
+zKHr5z4-${B<g)o(sZ<=BC>4vve5g%LSN9Do9<<svm5s13a6Q-y_1Zn(n#)4fWtJg>
+zmeV-=38i)$Pz=xH@X5FC@Tcw7%Fz;7p*HjA@ji?OGx6rS72E2x0xrcc#3DF;Q7zY=
+zOD<$>z9RzKr6bE5bZyNQwK>M=qG)Y$Cy=$Li}SOYIX~dSmm6-ow%!u7&NG{B&&kMb
+zo(W*iOupts#M{s!$hKdHBdFNt&((Hl)9Ey6z!#A!1Llw>08vv)>X)u}ADo?C_Ok5%
+zaJUDn6@j!0oK)cD5jd{sL%<gz`Vo={g9uj<t|1H|Tt|r5zHzEW=1nle{AD|wcG;}p
+zz?N9qp#GF>V55tKP5uL6f0bKE8=-02KJ~b5hY8#ETCCGVJ!#up9op<g#4Q~D_Qf5X
+zZbN7gK$2t(z*Nk*X+}OQ?NQga?Q}deJH8v>eyw=#mW&E~kD<8&zAA+)h-E|yeL7~H
+aUDBQwF=kHoCVYtRIwHbUlIqZ~sr&}>KsD9?
+
+literal 0
+HcmV?d00001
+
+diff --git a/client3.py b/client3.py
+index 3fc09b7..c6abb44 100644
+--- a/client3.py
++++ b/client3.py
+@@ -35,14 +35,16 @@ def getDataPoint(quote):
+     stock = quote['stock']
+     bid_price = float(quote['top_bid']['price'])
+     ask_price = float(quote['top_ask']['price'])
+-    price = bid_price
++    price = (bid_price + ask_price) / 2
+     return stock, bid_price, ask_price, price
+ 
+ 
+ def getRatio(price_a, price_b):
+     """ Get ratio of price_a and price_b """
+     """ ------------- Update this function ------------- """
+-    return 1
++    if(price_b == 0):
++        return    # if value of the denominator i.e. price_b is zero then avoid throwing the ZeroDivError
++    return (price_a / price_b)
+ 
+ 
+ # Main
+@@ -52,8 +54,12 @@ if __name__ == "__main__":
+         quotes = json.loads(urllib.request.urlopen(QUERY.format(random.random())).read())
+ 
+         """ ----------- Update to get the ratio --------------- """
++        price_list = {}
++        # We have created a dictionary here that contains key value pairs
++        # key contains name of the stock, value contains price of that particular stock
+         for quote in quotes:
+             stock, bid_price, ask_price, price = getDataPoint(quote)
++            price_list[stock] = price
+             print("Quoted %s at (bid:%s, ask:%s, price:%s)" % (stock, bid_price, ask_price, price))
+ 
+-        print("Ratio %s" % getRatio(price, price))
++        print("Ratio %s" % getRatio(price_list["ABC"], price_list["DEF"]))
+diff --git a/greet.py b/greet.py
+deleted file mode 100644
+index 70a8d48..0000000
+--- a/greet.py
++++ /dev/null
+@@ -1 +0,0 @@
+-print("hello JP Morgan")
+\ No newline at end of file
+diff --git a/server3.py b/server3.py
+index 1836de2..d7e8ca9 100644
+--- a/server3.py
++++ b/server3.py
+@@ -30,14 +30,13 @@ from datetime import timedelta, datetime
+ # from itertools import izip
+ from random import normalvariate, random
+ from socketserver import ThreadingMixIn
+-
+ import dateutil.parser
+ 
+ ################################################################################
+ #
+ # Config
+ 
+-# Sim params
++# Sim params~
+ 
+ REALTIME = True
+ SIM_LENGTH = timedelta(days=365 * 5)
+-- 
+2.42.0.windows.2
+
